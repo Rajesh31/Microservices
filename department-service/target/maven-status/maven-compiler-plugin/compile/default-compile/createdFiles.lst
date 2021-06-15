@@ -1,0 +1,5 @@
+com\rajesh\departmentservice\controller\DepartmentContoller.class
+com\rajesh\departmentservice\repository\DepartmentRepository.class
+com\rajesh\departmentservice\service\DepartmentService.class
+com\rajesh\departmentservice\DepartmentServiceApplication.class
+com\rajesh\departmentservice\entity\Department.class
